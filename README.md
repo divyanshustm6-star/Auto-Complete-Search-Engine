@@ -1,9 +1,5 @@
 # 🔍 Auto-Complete Search Engine
 
-\<p align="center">   \<b>A Java and Spring Boot-based intelligent word suggestion system powered by Trie and HashMap.\</b> \</p>
-
-\<p align="center">   \<img src="[https://img.shields.io/badge/Java-21-orange?logo=openjdk](https://img.shields.io/badge/Java-21-orange?logo=openjdk)" alt="Java 21"/>   \<img src="[https://img.shields.io/badge/Spring%20Boot-Backend-brightgreen?logo=springboot](https://img.shields.io/badge/Spring%20Boot-Backend-brightgreen?logo=springboot)" alt="Spring Boot"/>   \<img src="[https://img.shields.io/badge/DSA-Trie%20%7C%20HashMap-blue](https://img.shields.io/badge/DSA-Trie%20%7C%20HashMap-blue)" alt="DSA"/>   \<img src="[https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-yellow](https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-yellow)" alt="Frontend"/>   \<img src="[https://img.shields.io/badge/Status-Development-orange](https://img.shields.io/badge/Status-Development-orange)" alt="Development"/> \</p>
-
 ## 📌 About the Project
 
 **Auto-Complete Search Engine** is a web-based application that provides real-time word suggestions as users type into a search box. It is developed as a Data Structures and Algorithms (DSA) project using Java, Spring Boot, Trie Data Structure, and HashMap.
@@ -420,10 +416,6 @@ Rungta International Skills University, Bhilai, Chhattisgarh.
 
 ---
 
-\<p align="center">
-&#x20; \<b>Built with Java, DSA, and a passion for problem-solving. 🚀\</b>
-\</p>
 
-\<p align="center">
-&#x20; ⭐ If you find this project useful, consider giving the repository a star!
-\</p>
+Built with Java, DSA, and a passion for problem-solving. 🚀
+⭐ If you find this project useful, consider giving the repository a star!
